@@ -165,7 +165,7 @@ var Claim = function () {
 
     var that = this;
     $.post(POST_URL, post_data, function (data) {
-      console.debug('Successfully added ' + activity_type + ' for ' + claim_date);
+      console.debug('Successfully added ' + activity_type + ' for ' + date_str);
       that.ajax_index += 1;
       if (that.ajax_index < that.activities_list.length) {
         that.activities_list[that.ajax_index]();
