@@ -1,0 +1,688 @@
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Checking and updating Tutorial-2',
+date_str: '14-Jan-16',
+start_time: '15:00:00',
+end_time: '16:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Checking and updating Debugging-1',
+date_str: '17-Jan-16',
+start_time: '12:00:00',
+end_time: '13:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 0 Assignment Marking',
+date_str: '17-Jan-16',
+start_time: '18:00:00',
+end_time: '21:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 1 and SQ 1.1 for prev faster students',
+date_str: '17-Jan-16',
+start_time: '21:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '20-Jan-16',
+start_time: '20:00:00',
+end_time: '21:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 1',
+date_str: '23-Jan-16',
+start_time: '20:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 1 Assignment Marking',
+date_str: '24-Jan-16',
+start_time: '22:00:00',
+end_time: '23:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Checking and updating Tutorial - 3 and Debugging-2',
+date_str: '26-Jan-16',
+start_time: '08:30:00',
+end_time: '10:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Checking and updating Debugging-3',
+date_str: '26-Jan-16',
+start_time: '12:30:00',
+end_time: '13:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '28-Jan-16',
+start_time: '14:00:00',
+end_time: '15:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'SQ 1.1',
+date_str: '01-Feb-16',
+start_time: '14:00:00',
+end_time: '16:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Contest 2.2 ',
+date_str: '01-Feb-16',
+start_time: '16:30:00',
+end_time: '17:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '05-Feb-16',
+start_time: '14:00:00',
+end_time: '15:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '10-Feb-16',
+start_time: '21:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 2',
+date_str: '13-Feb-16',
+start_time: '20:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Contest 2.3',
+date_str: '15-Feb-16',
+start_time: '08:30:00',
+end_time: '09:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 2',
+date_str: '15-Feb-16',
+start_time: '09:00:00',
+end_time: '11:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'SQ 2.1',
+date_str: '15-Feb-16',
+start_time: '11:00:00',
+end_time: '13:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '17-Feb-16',
+start_time: '21:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'SQ 2.4',
+date_str: '22-Feb-16',
+start_time: '12:30:00',
+end_time: '14:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 3',
+date_str: '23-Feb-16',
+start_time: '14:00:00',
+end_time: '16:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '24-Feb-16',
+start_time: '21:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Recitation - 3',
+date_str: '27-Feb-16',
+start_time: '20:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 4 ',
+date_str: '29-Feb-16',
+start_time: '20:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '02-Mar-16',
+start_time: '21:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 5 ',
+date_str: '03-Mar-16',
+start_time: '14:00:00',
+end_time: '16:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Remedial - 1',
+date_str: '05-Mar-16',
+start_time: '10:00:00',
+end_time: '12:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 3',
+date_str: '05-Mar-16',
+start_time: '20:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'SQ 5.1 ',
+date_str: '07-Mar-16',
+start_time: '13:00:00',
+end_time: '14:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'SQ 5.2 ',
+date_str: '08-Mar-16',
+start_time: '20:00:00',
+end_time: '21:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '09-Mar-16',
+start_time: '21:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'SQ 5.3 ',
+date_str: '10-Mar-16',
+start_time: '14:00:00',
+end_time: '14:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Remedial - 2',
+date_str: '12-Mar-16',
+start_time: '10:00:00',
+end_time: '12:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 6 ',
+date_str: '13-Mar-16',
+start_time: '15:00:00',
+end_time: '17:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '16-Mar-16',
+start_time: '21:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 7 ',
+date_str: '18-Mar-16',
+start_time: '20:00:00',
+end_time: '22:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Remedial - 3',
+date_str: '19-Mar-16',
+start_time: '10:00:00',
+end_time: '12:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 4',
+date_str: '19-Mar-16',
+start_time: '20:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'SQ 7.1 ',
+date_str: '21-Mar-16',
+start_time: '21:00:00',
+end_time: '21:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '23-Mar-16',
+start_time: '21:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Midterm Exam',
+date_str: '26-Mar-16',
+start_time: '10:00:00',
+end_time: '12:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 8',
+date_str: '29-Mar-16',
+start_time: '15:00:00',
+end_time: '17:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'SQ 8.1 ',
+date_str: '29-Mar-16',
+start_time: '16:00:00',
+end_time: '16:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Midterm Exam scripts checking',
+date_str: '31-Mar-16',
+start_time: '18:00:00',
+end_time: '20:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Classroom Teaching Allocations/Student List Clean-up',
+date_str: '01-Apr-16',
+start_time: '12:00:00',
+end_time: '14:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Remedial - 4',
+date_str: '02-Apr-16',
+start_time: '10:00:00',
+end_time: '13:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'SQ 8.2 ',
+date_str: '04-Apr-16',
+start_time: '20:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 5',
+date_str: '07-Apr-16',
+start_time: '14:00:00',
+end_time: '15:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Remedial - 5',
+date_str: '09-Apr-16',
+start_time: '10:30:00',
+end_time: '13:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '13-Apr-16',
+start_time: '13:00:00',
+end_time: '13:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 9',
+date_str: '14-Apr-16',
+start_time: '20:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 6',
+date_str: '14-Apr-16',
+start_time: '14:00:00',
+end_time: '15:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '20-Apr-16',
+start_time: '21:00:00',
+end_time: '21:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 7',
+date_str: '21-Apr-16',
+start_time: '10:00:00',
+end_time: '11:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 7 (Repeat)',
+date_str: '21-Apr-16',
+start_time: '14:00:00',
+end_time: '15:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Re-Midterm Assignment Marking work',
+date_str: '21-Apr-16',
+start_time: '15:00:00',
+end_time: '16:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 10 ',
+date_str: '24-Apr-16',
+start_time: '20:00:00',
+end_time: '22:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '27-Apr-16',
+start_time: '20:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 8',
+date_str: '28-Apr-16',
+start_time: '10:00:00',
+end_time: '11:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 8 (Repeat)',
+date_str: '28-Apr-16',
+start_time: '14:00:00',
+end_time: '15:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Remedial - 6',
+date_str: '30-Apr-16',
+start_time: '10:00:00',
+end_time: '12:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '04-May-16',
+start_time: '20:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 9',
+date_str: '05-May-16',
+start_time: '11:00:00',
+end_time: '12:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 9 (Repeat)',
+date_str: '05-May-16',
+start_time: '14:00:00',
+end_time: '15:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 11a ',
+date_str: '07-May-16',
+start_time: '20:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '11-May-16',
+start_time: '20:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 11b',
+date_str: '09-May-16',
+start_time: '20:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 12 ',
+date_str: '10-May-16',
+start_time: '14:00:00',
+end_time: '15:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 10',
+date_str: '12-May-16',
+start_time: '10:00:00',
+end_time: '12:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Tutorial - 10',
+date_str: '12-May-16',
+start_time: '14:00:00',
+end_time: '14:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Remedial - 7',
+date_str: '14-May-16',
+start_time: '10:00:00',
+end_time: '12:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 13 ',
+date_str: '16-May-16',
+start_time: '14:00:00',
+end_time: '15:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '18-May-16',
+start_time: '20:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Remedial - 8',
+date_str: '20-May-16',
+start_time: '12:00:00',
+end_time: '14:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 14 ',
+date_str: '23-May-16',
+start_time: '20:00:00',
+end_time: '21:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Weekly Forum EXP',
+date_str: '25-May-16',
+start_time: '20:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Mission 15 ',
+date_str: '25-May-16',
+start_time: '13:00:00',
+end_time: '14:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Remedial - 9 (Final Review)',
+date_str: '26-May-16',
+start_time: '13:00:00',
+end_time: '16:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Practical Exam',
+date_str: '04-Jun-16',
+start_time: '09:00:00',
+end_time: '11:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Setting up Re-Practical Exam',
+date_str: '05-Jun-16',
+start_time: '13:00:00',
+end_time: '17:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Setting up Re-Practical Exam on Coursemology',
+date_str: '06-Jun-16',
+start_time: '10:00:00',
+end_time: '12:00:00'
+});
+
+activities_list.push({
+activity_type: 'Tutorial',
+desc:'Re-Practical Exam',
+date_str: '11-Jun-16',
+start_time: '08:30:00',
+end_time: '11:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Re-Practical Exam Assignment Marking ',
+date_str: '12-Jun-16',
+start_time: '13:00:00',
+end_time: '20:00:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Final Exam marks entering',
+date_str: '20-Jun-16',
+start_time: '19:00:00',
+end_time: '20:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Final Exam marks viewing session - 1',
+date_str: '21-Jun-16',
+start_time: '10:00:00',
+end_time: '11:30:00'
+});
+
+activities_list.push({
+activity_type: 'Assignment Marking',
+desc:'Final Exam marks viewing session - 2',
+date_str: '21-Jun-16',
+start_time: '16:00:00',
+end_time: '17:30:00'
+});
+
