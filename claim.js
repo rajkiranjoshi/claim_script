@@ -4,6 +4,7 @@ var Claim = function () {
   // ***********************************************************
   var ASSIGNMENT_MARKING = 'Assignment Marking';
   var COURSE_MATERIAL_PREPARATION = 'Course Material Preparation';
+  var COURSE_MATERIAL_CREATION = 'Course Material Creation';
   var TUTORIAL = 'Tutorial';
   var CONSULTATION = 'Consultation with students';
   var MIDTERM_MARKING = 'Midterm Marking';
@@ -24,6 +25,7 @@ var Claim = function () {
   ACTIVITY_DICT[MIDTERM_MARKING] = '004';
   ACTIVITY_DICT[PROJECT] = '005';
   ACTIVITY_DICT[COURSE_MATERIAL_PREPARATION] = '006';
+  ACTIVITY_DICT[COURSE_MATERIAL_CREATION] = '006';
   ACTIVITY_DICT[SYSTEM_SETUP] = '007';
   ACTIVITY_DICT[TUTORIAL] = 'T';
   ACTIVITY_DICT[CONSULTATION] = 'C';
