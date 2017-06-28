@@ -159,7 +159,7 @@ var Claim = function () {
       start_time_min: start_time.slice(3,5),
       end_time_hr: end_time.slice(0,2),
       end_time_min: end_time.slice(3,5),
-      gap_f:'Y', // GAP claim is ON by default
+      gap_f:'N', // GAP claim is OFF by default
       submit: 'ADD + Save as Draft'
     }
 
